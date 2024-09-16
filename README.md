@@ -2,7 +2,8 @@
 
 # License
 
-This driver is released under the GPL-2.0 and was developed by Texas Instruments the original version can be found on (Github)[1].
+This driver is released under the GPL-2.0 and was developed by Texas Instruments the original version can be found on [Github][1].
 
---
+
+
 [1]: https://github.com/TexasInstruments/ti-ethernet-software
